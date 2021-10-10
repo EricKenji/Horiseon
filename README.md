@@ -1,4 +1,3 @@
-![Horiseon-screenshot](https://user-images.githubusercontent.com/16628477/136683421-75d8ecd5-75c9-4e52-9542-d5aa4cba52ca.png)
 # Horiseon
 
 ## Purpose
